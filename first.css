@@ -1,0 +1,38 @@
+div.menu {
+	border-style: inset;
+	width: 640px;
+	word-spacing: 20px;
+	float: left;
+	margin-left: 150px;
+}
+li a {
+	text-decoration: none;
+	font-size: 1.5em;
+}
+li.display {
+	display: inline;
+}
+div.menu li a:hover {
+	background-color: #dfeeff;
+}
+.search {
+	float: left;
+	margin-left: 1.5cm;
+	width: 500px;
+	height: 3.0em;
+}
+.profile {
+	
+	
+	margin-left: 0.2cm;
+}
+.data {
+	margin-left: 1.5cm;
+	font-weight: bold;
+	font-size: 1cm;
+	
+}
+.edit {
+	text-decoration-color: blue;
+	text-decoration: none;
+}

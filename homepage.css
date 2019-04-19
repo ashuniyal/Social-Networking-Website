@@ -1,0 +1,36 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+#name {
+	background-color: blue;
+	height: 100px;
+}
+div {
+	float: right;
+	padding-top: 150px;
+
+}
+#form {
+	margin-right: 5cm;
+}
+input {
+	width: 100%;
+	box-sizing: border-box;
+}
+#login {
+	background-color: lightblue;
+	color: white;
+	padding: 15px 25px;
+	margin-right: 5cm;
+}
+#forgot {
+	text-decoration: none;
+	color: blue;
+	margin-right: 5cm;
+}
+#new {
+	text-decoration: underline;
+	color: black;
+	margin-right: 5cm;
+}
